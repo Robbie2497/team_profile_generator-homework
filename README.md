@@ -7,6 +7,7 @@
 
 ### To use the application, please run "npm install" to insall the required packages. Once you have installed the npm packages, run the applicaion in your command line. Answer the questions presented and your team member profile will be generated.
 
+
 # Demo
 <img src="https://media.giphy.com/media/SYXivC5ThbZqCRxKDy/giphy.gif"
      alt="Software Dev Team Generator"
@@ -19,3 +20,4 @@
 <img src="./Assets/Team.png"
     alt="Team"
     style="border-style: solid;">
+
